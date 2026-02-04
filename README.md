@@ -1,2 +1,2 @@
 # fxllipi.github.io
-test 
+print "test" 
